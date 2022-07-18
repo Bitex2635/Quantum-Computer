@@ -1,0 +1,4 @@
+def"function"="cmd"="source"
+"var"='1'
+print("function")
+def pull cmd
