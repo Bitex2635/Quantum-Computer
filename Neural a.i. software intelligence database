@@ -6,11 +6,10 @@ def "var"=0.0025
 #'1','9','2'
 "var"=0.0025
 "function"="cmd"="source" #Software application 
+def "NLTK" #Software code
 "var"='2'
-def 'var' #
+def 'var' #Neural science program
 "var"=0.0025
 pull request "var"='9'
-#run and test code
-
-
+print("var")#Colonist Code
 
